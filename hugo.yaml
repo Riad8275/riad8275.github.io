@@ -1,7 +1,10 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://riad8275.github.io/"
 languageCode: "en-us"
 title: "Riad Dabboussi | Business & Data Analytics Professional"
 theme: hugo-profile
+
+publishDir: docs
+
 
 # Multilingual configuration
 defaultContentLanguage: "en"
@@ -441,7 +444,6 @@ outputs:
   home:
     - "HTML"
     - "RSS"
-    - "JSON"
   page:
     - "HTML"
     - "RSS"
