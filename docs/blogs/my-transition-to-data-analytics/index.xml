@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>My Transition from Business Management to Data Analytics on Riad Dabboussi | Business &amp; Data Analytics Professional</title>
-		<link>https://riad8275.github.io/blogs/my-transition-to-data-analytics/</link>
+		<link>http://localhost:1313/blogs/my-transition-to-data-analytics/</link>
 		<description>Recent content in My Transition from Business Management to Data Analytics on Riad Dabboussi | Business &amp; Data Analytics Professional</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://riad8275.github.io/blogs/my-transition-to-data-analytics/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blogs/my-transition-to-data-analytics/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
