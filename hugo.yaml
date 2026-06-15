@@ -2,7 +2,6 @@ baseURL: "https://riad8275.github.io/"
 languageCode: "en-us"
 title: "Riad Dabboussi | Business & Data Analytics Professional"
 theme: hugo-profile
-
 publishDir: docs
 
 
