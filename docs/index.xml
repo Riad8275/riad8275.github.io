@@ -10,23 +10,9 @@
 		
 		
 		
-			<lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>When Anonymous Isn&#39;t Really Anonymous: The Ethics Behind Student Course Surveys</title>
-				<link>http://localhost:1313/blogs/ethical-data-collection/</link>
-				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/ethical-data-collection/</guid>
-				<description>&lt;p&gt;Introduction&lt;/p&gt;&#xA;&lt;p&gt;Feedback plays a big role in how schools and organizations improve over time. After completing a course, students are often asked to share their opinions through online surveys. These surveys are meant to help institutions understand what worked well, what didn’t, and what can be improved for future students.&#xA;In this situation, students are asked to complete a course evaluation survey by logging into an online system with their username and password. The survey also states that responses are anonymous and will be used to help executive management make decisions about course improvements.&#xA;At first glance, this may seem like a simple and harmless process. However, when we look closer, questions begin to appear around how the data is collected, whether it is truly anonymous, and how student information is being handled behind the scenes.&#xA;This blog takes a closer look at this survey from an ethical perspective. It explores the potential issues in its design, other risks that may not be immediately obvious, and what responsible data practices should look like. It also discusses how a data analyst should respond if ethical concerns are raised but ignored.&#xA;The goal is to better understand how something as common as a student survey can raise important questions about privacy, trust, and responsible use of data.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>My Transition from Business Management to Data Analytics</title>
-				<link>http://localhost:1313/blogs/my-transition-to-data-analytics/</link>
-				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/my-transition-to-data-analytics/</guid>
-				<description>&lt;p&gt;For more than 25 years, I have worked in business operations, administration, sales, customer service, human     resources, and management across different industries. These experiences helped me develop strong leadership, communication, and problem-solving skills while supporting organizational growth and operational excellence.&lt;/p&gt;&#xA;&lt;p&gt;As organizations increasingly rely on data-driven decision-making, I became interested in learning how data can be used to improve performance and support strategic planning. This inspired me to pursue further education in Canada and begin my transition into the field of data analytics.&lt;/p&gt;</description>
-			</item>
 			<item>
 				<title>Image Gallery</title>
 				<link>http://localhost:1313/gallery/</link>

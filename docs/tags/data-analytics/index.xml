@@ -15,9 +15,9 @@
 			<atom:link href="http://localhost:1313/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My Transition from Business Management to Data Analytics</title>
-				<link>http://localhost:1313/blogs/my-transition-to-data-analytics/</link>
+				<link>http://localhost:1313/blog/my-transition-to-data-analytics.md/</link>
 				<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/my-transition-to-data-analytics/</guid>
+				<guid>http://localhost:1313/blog/my-transition-to-data-analytics.md/</guid>
 				<description>&lt;p&gt;For more than 25 years, I have worked in business operations, administration, sales, customer service, human     resources, and management across different industries. These experiences helped me develop strong leadership, communication, and problem-solving skills while supporting organizational growth and operational excellence.&lt;/p&gt;&#xA;&lt;p&gt;As organizations increasingly rely on data-driven decision-making, I became interested in learning how data can be used to improve performance and support strategic planning. This inspired me to pursue further education in Canada and begin my transition into the field of data analytics.&lt;/p&gt;</description>
 			</item>
 	</channel>

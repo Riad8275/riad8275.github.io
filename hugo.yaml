@@ -721,10 +721,10 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "blog"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/Riad8275

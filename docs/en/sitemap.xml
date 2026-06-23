@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/anonymity/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-collection/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ethics/</loc>
+    <loc>http://localhost:1313/tags/data-ethics/</loc>
+    <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/informed-consent/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/privacy/</loc>
@@ -50,8 +56,11 @@
                 href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogs/ethical-data-collection/</loc>
+    <loc>http://localhost:1313/blogs/ethical-data-collection.md/</loc>
     <lastmod>2026-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/business/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
@@ -62,7 +71,7 @@
     <loc>http://localhost:1313/tags/data-analytics/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/my-transition-to-data-analytics/</loc>
+    <loc>http://localhost:1313/blog/my-transition-to-data-analytics.md/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/power-bi/</loc>
