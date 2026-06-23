@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Anonymity on Riad Dabboussi | Business &amp; Data Analytics Professional</title>
-		<link>http://localhost:1313/tags/anonymity/</link>
+		<link>https://riad8275.github.io/tags/anonymity/</link>
 		<description>Recent content in Anonymity on Riad Dabboussi | Business &amp; Data Analytics Professional</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/anonymity/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://riad8275.github.io/tags/anonymity/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>When Anonymous Isn&#39;t Really Anonymous: The Ethics Behind Student Course Surveys</title>
-				<link>http://localhost:1313/blogs/ethical-data-collection.md/</link>
+				<link>https://riad8275.github.io/blogs/ethical-data-collection.md/</link>
 				<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blogs/ethical-data-collection.md/</guid>
+				<guid>https://riad8275.github.io/blogs/ethical-data-collection.md/</guid>
 				<description>&lt;p&gt;Introduction&lt;/p&gt;&#xA;&lt;p&gt;Feedback plays a big role in how schools and organizations improve over time. After completing a course, students are often asked to share their opinions through online surveys. These surveys are meant to help institutions understand what worked well, what didn’t, and what can be improved for future students.&#xA;In this situation, students are asked to complete a course evaluation survey by logging into an online system with their username and password. The survey also states that responses are anonymous and will be used to help executive management make decisions about course improvements.&#xA;At first glance, this may seem like a simple and harmless process. However, when we look closer, questions begin to appear around how the data is collected, whether it is truly anonymous, and how student information is being handled behind the scenes.&#xA;This blog takes a closer look at this survey from an ethical perspective. It explores the potential issues in its design, other risks that may not be immediately obvious, and what responsible data practices should look like. It also discusses how a data analyst should respond if ethical concerns are raised but ignored.&#xA;The goal is to better understand how something as common as a student survey can raise important questions about privacy, trust, and responsible use of data.&lt;/p&gt;</description>
 			</item>
 	</channel>
